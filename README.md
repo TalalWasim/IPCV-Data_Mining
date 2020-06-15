@@ -1,2 +1,2 @@
-# IPCV-Data_Mining
-This repository contains the lab work completed during the Design Patterns course at the Pazmany Peter Catholic University (PPCU), which is part of the Erasmus Mundus Image Processing and Computer Vision Master's program (ipcv.eu)
+# Data Mining and Machine Learning
+This repository contains the code for the project done during the Data Mining and Machine Learning course taken as part of the first semester at Pazmany Peter Catholic University (PPCU) which is part of the Erasmus Mundus Joint Masters Degree (EMJMD) scholarship program in Image Processing and Computer Vision [IPCV](http://ipcv.eu/)
