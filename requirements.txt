@@ -2,7 +2,7 @@ numpy==1.17.4+mkl
 xgboost==0.90
 catboost==0.20.2
 pandas==0.25.3
-tensorflow==2.0.1
+tensorflow==2.11.1
 Keras==2.3.1
 matplotlib==3.1.2
 scikit_learn==0.23.1
